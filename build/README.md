@@ -1,2 +1,0 @@
-# dhlportfolio
-My Portfolio
